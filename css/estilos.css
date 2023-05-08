@@ -2,3 +2,7 @@ body{
     background-color: blue;
     font-family:'Times New Roman', Times, serif ;
 }
+img{
+    width: 50%;
+    height: 50%;
+}
